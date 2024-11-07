@@ -1,13 +1,15 @@
 # Arduino Misc
 Misc/general arduino sketches useful outside of a specific arduino project
 
-## I^2^C Related Sketches
+## I2C Related Sketches
 ```text
 .
 ├─── [DS3231_set](DS3231-rtc)
 ├─── i2c_scanner
 └─── ssd1306_128x32_i2c
 ```
+
+## Hardware Component Information
 
 ### [DS3231 RTC](https://www.analog.com/en/products/ds3231.html#part-details)
 
