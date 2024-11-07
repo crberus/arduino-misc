@@ -20,4 +20,4 @@ Misc/general arduino sketches useful outside of a specific arduino project
 [Amazon: Hilitand DS3231 Clock Module for Arduino RTC Board Real Time Clock Module for Arduino](https://www.amazon.com/Hilitand-DS3231-Module-Arduino-Raspberry/dp/B08KH29Z9J)
 
 ##### Hilitand DS3231 Pinout
-![DS3231 Pinout](https://github.com/crberus/arduino-misc/blob/media/images/DS3231_pinout.jpg)
+![DS3231 Pinout](../media/images/DS3231_pinout.jpg?raw=true)
